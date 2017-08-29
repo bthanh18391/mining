@@ -1,4 +1,3 @@
-#!/bin/bash
 sudo apt-get update
 sudo apt-get install git make automake screen libcurl4-openssl-dev -y
 sudo apt-get install libcurl4-openssl-dev build-essential libjansson-dev -y
